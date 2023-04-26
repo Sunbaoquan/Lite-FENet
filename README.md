@@ -22,7 +22,7 @@ This is the official implementation of our paper [**Lite-FENet: Lightweight Mult
 
 - **PASCAL-5<sup>i</sup> :** consists of [VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) and part of [SBD](http://home.bharathh.info/pubs/codes/SBD/download.html). Download this benchmark labels from [here](https://drive.google.com/file/d/1nOpsl-Z1fntyFOqIxN_v26FR3ivHvJ7R/view?usp=sharing).
 
-- **COCO-20<sup>i</sup> :** constructed by [COCO2014](https://cocodataset.org/#download), and our project `lists/coco/extract_coco_mask.py` could make this benchmark labels.
+- **COCO-20<sup>i</sup> :** constructed by [COCO2014](https://cocodataset.org/#download)
 
   For more details about these two benchmarks, please check [OSLSM](https://arxiv.org/abs/1709.03410) and [FWB](https://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.html).
 
