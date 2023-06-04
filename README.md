@@ -2,6 +2,7 @@
 
 This is the official implementation of our paper [**Lite-FENet: Lightweight Multi-scale Feature Enrichment Network for Few-shot Segmentation**](). 
 
+![image](https://github.com/Sunbaoquan/Lite-FENet/assets/43231851/c7a2b39c-9b4b-455a-b60c-373b64a1f04a)
 
 
 ## Get Started
