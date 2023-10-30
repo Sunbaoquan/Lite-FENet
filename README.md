@@ -1,6 +1,6 @@
 # Lite-FENet
 
-This is the official implementation of our paper [**Lite-FENet: Lightweight Multi-scale Feature Enrichment Network for Few-shot Segmentation**](). 
+This is the official implementation of our paper [**Lite-FENet: Lightweight Multi-scale Feature Enrichment Network for Few-shot Segmentation**](), which has been published in Knowledge-Based System journal. 
 
 ![image](https://github.com/Sunbaoquan/Lite-FENet/assets/43231851/c7a2b39c-9b4b-455a-b60c-373b64a1f04a)
 
@@ -60,4 +60,16 @@ This is the official implementation of our paper [**Lite-FENet: Lightweight Mult
 
 ## References
 
-This  project is built on [PFENet](https://github.com/Jia-Research-Lab/PFENet/)、[HRNet]([HRNet (github.com)](https://github.com/HRNet))、[DCP](https://github.com/chunbolang/DCP). Thanks their great contribution！
+```
+@article{LI2023110887,
+title = {Lite-FENet: Lightweight multi-scale feature enrichment network for few-shot segmentation},
+journal = {Knowledge-Based Systems},
+volume = {278},
+pages = {110887},
+year = {2023},
+issn = {0950-7051},
+author = {Qun Li and Baoquan Sun and Bir Bhanu}
+}
+```
+
+This  project is built on [PFENet](https://github.com/Jia-Research-Lab/PFENet/)、[HRNet](https://github.com/HRNet)、[DCP](https://github.com/chunbolang/DCP). Thanks for their great contribution！
